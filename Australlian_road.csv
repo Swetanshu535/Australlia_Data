@@ -1,0 +1,30 @@
+Crash_ID,State,Dayweek,Time,Crash_Type,Bus_Involvement,Heavy_Rigid ,Articulated_Truck ,Speed_Limit,Road_User,Gender,Age
+20237008,NT,Friday,02:00,Single,No,No,No,-9,Driver,Female,24
+20234009,SA,Saturday,03:00,Single,No,No,No,100,Driver,Male,22
+20233087,Qld,Saturday,03:00,Single,No,No,No,80,Driver,Male,19
+20233149,Qld,Sunday,03:00,Single,No,No,No,60,Passenger,Male,37
+20233190,Qld,Sunday,03:00,Multiple,No,No,No,100,Motorcycle rider,Male,35
+20233052,Qld,Saturday,23:00,Single,No,No,No,70,Driver,Female,32
+20235077,WA,Monday,17:08,Single,No,No,No,60,Passenger,Male,29
+20236005,Tas,Monday,20:55,Multiple,No,No,No,80,Driver,Female,51
+20233149,Qld,Sunday,03:00,Single,No,No,No,60,Passenger,Male,39
+20236028,Tas,Saturday,03:15,Single,No,No,No,60,Driver,Male,33
+20232109,Vic,Tuesday,20:20,Single, Yes, Yes, Yes,-9,Driver,Male,19
+20232179,Vic,Friday,22:30,Single, Yes, Yes, Yes,-9,Driver,Male,65
+20237018,NT,Tuesday,05:00,Multiple,No,No,No,-9,Motorcycle rider,Male,-9
+20231095,NSW,Wednesday,18:40,Single,No,No,No,70,Driver,Male,40
+20235097,WA,Tuesday,15:25,Single,No,No,No,110,Driver,Male,60
+20231059,NSW,Friday,23:08,Single,No,No,No,80,Driver,Male,44
+20235091,WA,Monday,07:54,Single,No,No,No,110,Driver,Female,63
+20233053,Qld,Sunday,16:00,Multiple,No,No,No,60,Motorcycle rider,Male,27
+20233035,Qld,Sunday,08:00,Single,No,No,No,60,Driver,Male,30
+20235051,WA,Wednesday,01:00,Single,No,No,No,70,Pedestrian,Female,48
+20231105,NSW,Friday,18:00,Multiple,No,No,No,70,Motorcycle rider,Male,55
+20235059,WA,Wednesday,07:00,Single,No,No,No,110,Passenger,Female,62
+20237005,NT,Saturday,16:00,Single,No,No,No,-9,Motorcycle rider,Male,59
+20235112,WA,Saturday,13:54,Single,No,No,No,100,Motorcycle rider,Male,45
+20237010,NT,Tuesday,21:00,Multiple,No,No,No,-9,Motorcycle rider,Male,31
+20233196,Qld,Saturday,07:00,Multiple,No,No,No,100,Driver,Male,71
+20232141,Vic,Sunday,14:50,Multiple, Yes, Yes, Yes,-9,Passenger,Male,21
+20235073,WA,Sunday,14:37,Single,No,No,No,110,Driver,Male,67
+20232062,Vic,Sunday,11:05,Single, Yes, Yes, Yes,-9,Pedal cyclist,Male,78

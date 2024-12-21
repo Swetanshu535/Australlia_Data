@@ -1,0 +1,23 @@
+create database Australlia_data;
+use Australlia_data;
+
+select * from australlian_road;
+
+-- for the crash_type show the total speed limit
+select Crash_Type,sum(Speed_Limit)
+from australlian_road
+group by Crash_Type;
+-- Show the average of age and the road user 
+select avg(Age),Road_user
+from australlian_road
+group by Road_user;
+-- rank the data according to the dayweek 
+select *,rank() over (Order by Dayweek)
+from australlian_road;
+
+-- dense rank the state and show the total table
+select *,dense_rank() over (order by State)
+from Australlian_road;
+-- divide the data under the window function in 4 tiles and order by Road user
+select Road_user,ntile(4) over (order by Road_User)
+from Australlian_road;
